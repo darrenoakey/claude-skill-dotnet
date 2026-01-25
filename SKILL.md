@@ -1,3 +1,8 @@
+---
+name: dotnet
+description: .NET development standards and practices for zero-fabrication, test-driven development with strict quality gates. Use when working on .NET/C# projects that require rigorous testing, real integrations only, and co-located tests.
+---
+
 # .NET Development Skill
 
 **Zero-Fabrication | Test-Driven | Zero-Tolerance**
